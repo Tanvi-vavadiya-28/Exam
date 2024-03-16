@@ -1,0 +1,19 @@
+/* OngoingExamCard.css */
+
+.ongoing-exam-card {
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ongoing-exam-card h3 {
+    color: #222831;
+    margin-bottom: 10px;
+  }
+  
+  .ongoing-exam-card p {
+    margin: 5px 0;
+  }
+  
